@@ -1,2 +1,2 @@
 # javascript-inheritance
-Javascript inheretance exemplifications
+Javascript inheritance exemplifications
